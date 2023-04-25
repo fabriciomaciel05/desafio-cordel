@@ -22,10 +22,15 @@ body {
     font-family: var(--font01);
 }
 
+
+
 header {
+    position: fixed;
+    width: 100%;
     background-color: black;
     color: white;
     text-align: center;
+    
 }
 
 header > h1 {
